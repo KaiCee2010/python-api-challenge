@@ -3,6 +3,7 @@ This repository contains the files and folders for the python-api-challenge home
 
 This repository contains:
 * WeatherPy folder
+* Config.py (inside WeatherPy folder)
 * Output folder (inside WeatherPy folder)
 * WeatherPy jupyter notebook (inside WeatherPy folder)
 * VacationPy jupyter notebook (inside WeatherPy folder)
@@ -52,4 +53,3 @@ The VacationPy jupyter notebook contains code to:
 * Create a new dataframe for ideal cities based on specific temperature, wind speed and cloudiness parameters
 * Gather first hotel name for ideal cities
 * Add hotel info marker layer to gmaps figure
-* 
