@@ -24,7 +24,7 @@ This repository contains:
 * windspeed_lats_lr_north.png (inside Output folder)
 * windspeed_lats_lr_south.png (inside Output folder)
 
-*Note: API keys were saved in the api_keys.py file in the WeatherPy folder in my local repository.  However, this file has been set to ignore by git and was not uploaded to hide my API keys.*
+*Note: API keys were saved in the api_keys.py file in the WeatherPy folder in my local repository.  However, this file has been set to ignore and was not uploaded to hide my API keys.*
 
 The WeatherPy jupyter notebook contains code to:
 * Import for librarys and APIs
